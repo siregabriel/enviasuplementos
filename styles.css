@@ -1,0 +1,211 @@
+.box-text {text-align:center; font-size:1.1em; margin:0 auto;}
+
+div.price-wrapper span.amount {font-size:1.4em; color: #B12704}
+
+button.woosw-btn {width:100%; font-size:0.6em; margin-top:-20px; color:#3664A2; line-height:12px}
+
+div.price_label {width: 101%;}
+
+.widget_price_filter .price_slider_amount .button {background-color: #e46234;}
+
+span.widget-title {letter-spacing:-0.1px; text-transform:capitalize; font-size:1em}
+
+.star-rating span::before {color:#FFB73D;}
+
+.button.alt {background-color: orange;}
+
+a.add_to_cart_button, 
+a.add_to_cart_button:hover {font-size:8px!important; background-color:orange!important; color:black; font-weight:bolder!important;}
+
+.container-width, .full-width .ubermenu-nav, .container, .row {max-width:90%;}
+
+#mega-menu-wrap-primary #mega-menu-primary[data-effect="fade_up"] li.mega-menu-item.mega-menu-megamenu > ul.mega-sub-menu, #mega-menu-wrap-primary #mega-menu-primary[data-effect="fade_up"] li.mega-menu-item.mega-menu-flyout ul.mega-sub-menu {border-bottom:3px solid gray;}
+
+div.textwidget.custom-html-widget span#siteseal {padding-left:20%!important;}
+
+.row .row-small:not(.row-collapse), .container .row-small:not(.row-collapse) {min-width:100%}
+
+div#masthead {background-color:#E0AC1F}
+
+#logo img {padding:10px}
+
+div#top-bar .nav-small.nav > li.html {font-size: 1em;}
+
+.secondary, .checkout-button, .button.checkout, .button.alt {background-color:red;}
+
+[data-icon-label]::after {background-color:red; width:25px; height:25px; font-size:20px;padding-top:5px; right:-20px}
+
+.video-fit video, .video-fit iframe, img.back-image, .image-cover img, .has-format img, .has-equal-box-heights .box-image img {object-fit:contain;}
+
+.lightbox-content .lightbox-inner {background-image: url("https://enviasuplementos.com/wp-content/themes/flatsome/assets/img/login-background.gif");}
+
+p.category.uppercase.is-smaller.no-text-overflow.product-cat.op-7 {font-size:10px;}
+
+#stamped-reviews-widget[data-widget-type="full-page"] .stamped-ratings-wrapper {min-width:300px!important; float:none!important}
+
+#stamped-reviews-widget[data-widget-type="full-page"] .stamped-widget-title {display:none;}
+
+#stamped-reviews-widget[data-widget-type="full-page"] .stamped-verified-label[data-verified-type="2"]::after {content: '\e904 Comprador Verificado'!important;}
+
+#woocommerce-cart-notice-name a {
+	color:blue;
+	text-transform: lowercase;
+	background: none;
+	border:none;
+	display:inline;
+}
+#woocommerce-cart-notice-name {color:Red;}
+
+.box-text .button {
+	margin-top: 0em!important;
+}
+
+#woocommerce-cart-notice-name a:hover {text-decoration:underline;}
+#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link, #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link {
+	pointer-events:none;
+}
+.image-inicio {
+	margin: auto;
+}
+a.mega-menu-link {
+	font-weight:bold!important;
+}
+div.pwb-single-product-brands a {
+	background:none;
+}
+div.price-wrapper {
+	height:100px;
+}
+.textwidget ul li a {
+	color:white;
+}
+.textwidget ul li a:hover {
+	text-decoration:underline;
+}
+.textwidget ul li a::before {
+	content: "\2022   ";
+}
+.textwidget h2 strong {
+	color: #B1F006;
+}
+.confit-email a {
+	color:white;
+}
+h4.mega-block-title {
+	color:white!important;
+	text-transform: uppercase!important;
+}
+.confit-phone, .confit-email, .confit-hours {
+	color:white;
+}
+button.woosw-btn {
+	color:black;
+	font-size:0.9em;
+	border-radius:5px;
+	text-align:inherit;
+	margin-top:1px;
+	letter-spacing:-0.02em
+}
+button.woosw-btn::after {
+	content:"  \2665";
+}
+button.woosw-btn:hover {
+	text-decoration:underline;
+}
+.ajax_add_to_cart.add_to_cart_button.product_type_simple.button.primary.is-shade.mb-0.is-small {
+	font-size:11px!important;
+	border-radius:5px;
+	color:black;
+}
+.lightbox-content .lightbox-inner {
+}
+#mega-menu-wrap-primary #mega-menu-primary li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row .mega-menu-column > ul.mega-sub-menu > li.mega-menu-item {
+	
+}
+.ajax_add_to_cart.add_to_cart_button.product_type_simple.button.primary.is-shade.mb-0.is-small::before {
+	content: url('https://api.iconify.design/typcn-shopping-cart.svg?height=24');
+vertical-align: -0.725em;
+}
+.ajax_add_to_cart.add_to_cart_button.product_type_simple.button.primary.is-shade.mb-0.is-small {
+	padding-top:5px;
+		height: 39px
+}
+.single_add_to_cart_button.button.alt::before {
+	content: url('https://api.iconify.design/typcn-shopping-cart.svg?color=%23fff&height=24');
+	vertical-align: -0.425em;
+}
+.single_add_to_cart_button.button.alt {
+	height:30px;
+	background:orange!important;
+}
+a.button.wc-forward {
+	color:white!important;
+	border-radius:5px;
+}
+div.price-wrapper span.amount {
+	color:red;
+}
+#stamped-reviews-widget[data-widget-type="carousel"] .stamped-carousel-title {
+	color: black;
+	font-weight:bold;
+	font-size:26px!important;
+	letter-spacing:0px;
+	text-transform:uppercase;
+}
+#mega-menu-wrap-primary #mega-menu-primary li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-row .mega-menu-column > ul.mega-sub-menu > li.mega-menu-item {
+	padding-top:20px;
+}
+p.category.uppercase.is-smaller.no-text-overflow.product-cat.op-7 {
+	background:#069AF9;
+	color:white;
+	padding:2px;
+	 border-radius:5px;
+	width:70%;
+	margin:0 auto;
+}
+.textwidget li {
+	margin-bottom: 0px;
+}
+.textwidget h2 {
+	margin-bottom: -18px;
+}
+ul.mega-sub-menu {
+	padding-bottom: 50px!important;
+}
+p.stock.out-of-stock {
+	background:greenyellow;
+	padding: 20px;
+	font-size: 40px;
+	color:black;
+	text-align:center;
+}
+p.woocommerce-shipping-destination {
+	display:none;
+}
+ul.cliente li {
+	margin-bottom:0!important;
+}
+.quantity+.button {
+	background: rgb(241,162,3);
+background: linear-gradient(0deg, rgba(241,162,3,1) 0%, rgba(253,187,45,1) 100%);
+	padding: 0px 10px 0px 10px!important;
+	font-size: 14px;
+	border-radius:20px;
+	height:30px;
+	width: 200px!important;
+}
+.quantity+.button::before {
+	content: url('https://api.iconify.design/typcn-shopping-cart.svg?height=24');
+vertical-align: -0.525em;
+}
+div.price-wrapper {
+	height: auto!important;
+	padding-bottom:10px
+}
+#wrapper .quantity .minus, #wrapper .quantity .plus {
+	border-radius:20px
+}
+#wide-nav.header-bottom {
+	background:#e0ac1f;
+}
+/*cambios que realizaré y presentados en git*/
